@@ -19,13 +19,16 @@ Q: When are you born?
 A: I was born at a very young age alongside my mother
 
 Q: Current Projects?
-A: I'm leading a team working on innovating and creating the future makerspace
+A: NestSpace
 
 Q: Stuff you like?
 A: Pony Music, Working with diverse people, looking at memes, eating and sleeping
 
 Q: What Programming Launguages do you know?
 A: Any that i am currently working on, I tend to forget a language after not using it for two days
+
+Q: Whats with the profile pic?
+A: I actually forgot where i got it from, it aint mine tho
 ===================================================================
 Questions about HKU and Engineering
 
